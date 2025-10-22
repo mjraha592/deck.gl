@@ -9,7 +9,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@vis.gl/react-google-maps": "^0.7.1",
+    "@vis.gl/react-google-maps": "^0.11.2",
     "deck.gl": "^9.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
