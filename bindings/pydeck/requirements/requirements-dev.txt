@@ -17,3 +17,4 @@ sphinx-markdown-builder
 wheel
 sphinx_rtd_theme
 black;python_version>="3.6"
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
